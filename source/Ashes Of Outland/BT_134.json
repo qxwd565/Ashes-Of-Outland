@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Bogbeam",
+  "card": {
+    "id": "BT_134",
+    "dbfId": 56686,
+    "name": "수렁광선",
+    "text": "하수인에게 피해를 $3 줍니다. 내 마나 수정이 7개 이상이면, 비용이 (0)이 됩니다.",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1414,
+    "set": "BLACK_TEMPLE",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS19-262.tif:75cc67f9ff0649a28aa1ef492e71303d",
+    "flavor": "수렁에서 목격된 수상한 밝은 빛이 외계인의 소행이라 믿는 사람도, 단지 늪지대에서 발생하는 가스일 뿐이라 믿는 사람도 있습니다. 그런데 말입니다, 실제로 그 빛의 정체는 드루이드였다고 합니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "하수인에게 피해를 $3 줍니다. 내 마나 수정이 7개 이상이면, 비용이 (0)이 됩니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1414,
+    "slug": "ashes-of-outland",
+    "name": "황폐한 아웃랜드",
+    "type": "expansion",
+    "englishName": "Ashes Of Outland"
+  },
+  "setOrder": 23,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

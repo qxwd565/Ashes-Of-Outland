@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Libram of Wisdom",
+  "card": {
+    "id": "BT_025",
+    "dbfId": 56555,
+    "name": "지혜의 성서",
+    "text": "하수인에게 +1/+1과\n\"<b>죽음의 메아리:</b> '지혜의 성서'\n주문을 내 손으로 가져옴\"\n능력을 부여합니다.",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1414,
+    "set": "BLACK_TEMPLE",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "HOLY",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS19-078.tif:88bd1854a1d34c3e8c3f38c61d7cb7b9",
+    "flavor": "최고의 지혜는 대물림되는 것이죠.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1546,
+        "name": "게임 태그 1546",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "nativeRawText": "[x]하수인에게 +1/+1과\n\"<b>죽음의 메아리:</b> '지혜의 성서'\n주문을 내 손으로 가져옴\"\n능력을 부여합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1414,
+    "slug": "ashes-of-outland",
+    "name": "황폐한 아웃랜드",
+    "type": "expansion",
+    "englishName": "Ashes Of Outland"
+  },
+  "setOrder": 23,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

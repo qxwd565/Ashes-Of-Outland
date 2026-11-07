@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Unstable Felbolt",
+  "card": {
+    "id": "BT_199",
+    "dbfId": 57149,
+    "name": "불안정한 지옥 화살",
+    "text": "적 하수인과 무작위 아군 하수인에게 피해를 $3 줍니다.",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1414,
+    "set": "BLACK_TEMPLE",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "FEL",
+    "cost": 1,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS19-048.tif:f48da99a3eed4a498739dc3da79b584b",
+    "flavor": "힘에는 대가가 따르는 법입니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      }
+    ],
+    "nativeRawText": "적 하수인과 무작위 아군 하수인에게 피해를 $3 줍니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1414,
+    "slug": "ashes-of-outland",
+    "name": "황폐한 아웃랜드",
+    "type": "expansion",
+    "englishName": "Ashes Of Outland"
+  },
+  "setOrder": 23,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Font of Power",
+  "card": {
+    "id": "BT_021",
+    "dbfId": 56460,
+    "name": "마력의 샘",
+    "text": "마법사 하수인을 <b>발견</b>합니다. 내 덱에 하수인이 없으면, 카드 3장을 모두 가집니다.",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "classes": [],
+    "nativeSetId": 1414,
+    "set": "BLACK_TEMPLE",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "ARCANE",
+    "cost": 1,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS19-040.tif:15e1a910ad3a4895a85c44313a9e46af",
+    "flavor": "오늘의 하수인은 뭘까아아아~요?",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "마법사 하수인을 <b>발견</b>합니다. 내 덱에 하수인이 없으면, 카드 3장을 모두 가집니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1414,
+    "slug": "ashes-of-outland",
+    "name": "황폐한 아웃랜드",
+    "type": "expansion",
+    "englishName": "Ashes Of Outland"
+  },
+  "setOrder": 23,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

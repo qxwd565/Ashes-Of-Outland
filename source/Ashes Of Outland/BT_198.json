@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Soul Mirror",
+  "card": {
+    "id": "BT_198",
+    "dbfId": 57160,
+    "name": "영혼 거울",
+    "text": "적 하수인들을 복사하여 소환합니다.\n그 하수인들이 복사한 하수인을 각각 공격합니다.",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1414,
+    "set": "BLACK_TEMPLE",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "SHADOW",
+    "cost": 7,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS19-066.tif:1d6c84c06785431f8825aedec4861283",
+    "flavor": "세상에서 가장 힘든 싸움은 나와의 싸움이죠.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "nativeRawText": "적 하수인들을 복사하여 소환합니다.\n그 하수인들이 복사한 하수인을 각각 공격합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1414,
+    "slug": "ashes-of-outland",
+    "name": "황폐한 아웃랜드",
+    "type": "expansion",
+    "englishName": "Ashes Of Outland"
+  },
+  "setOrder": 23,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

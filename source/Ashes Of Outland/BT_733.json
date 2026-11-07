@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Mo'arg Artificer",
+  "card": {
+    "id": "BT_733",
+    "dbfId": 57193,
+    "name": "모아그 기술병",
+    "text": "<b>모든</b> 하수인이\n주문으로 받는 피해가 2배 증가합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1414,
+    "set": "BLACK_TEMPLE",
+    "rarity": "EPIC",
+    "race": "기계, 악마",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS19-123.tif:684c00b3947d4fb59e6f5bc3d8825a84",
+    "flavor": "배짱 싸움에서 밀리지 않으려면 묻고 더블로 가야겠죠.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2539,
+        "name": "게임 태그 2539",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>모든</b> 하수인이\n주문으로 받는 피해가 2배 증가합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1414,
+    "slug": "ashes-of-outland",
+    "name": "황폐한 아웃랜드",
+    "type": "expansion",
+    "englishName": "Ashes Of Outland"
+  },
+  "setOrder": 23,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
