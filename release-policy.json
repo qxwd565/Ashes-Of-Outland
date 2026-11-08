@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2020-04-08",
+    "status": "verified"
+  },
+  "prefixes": {
+    "BT_": {
+      "date": "2020-04-08",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "BT_255": {
+      "date": "2020-03-18",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "main": "https://hearthstone.blizzard.com/ko-kr/news/23369565",
+    "early": "https://hearthstone.blizzard.com/ko-kr/news/23324071"
+  }
+}
