@@ -52,10 +52,7 @@
           "name": "주문 속성",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_003",
@@ -115,10 +112,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_004",
@@ -140,7 +134,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -196,9 +190,7 @@
       ],
       "mechanics": [
         "DORMANT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_006",
@@ -260,10 +252,7 @@
           "name": "게임 태그 3630",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_008",
@@ -341,11 +330,7 @@
       ],
       "relatedDbfIds": [
         57906
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_008t",
@@ -366,7 +351,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -412,10 +397,7 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_009",
@@ -437,7 +419,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -501,9 +483,7 @@
       ],
       "relatedDbfIds": [
         57920
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_009t",
@@ -524,7 +504,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -557,10 +537,7 @@
           "name": "카드 유형",
           "value": 4
         }
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_010",
@@ -582,7 +559,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -633,9 +610,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_011",
@@ -705,10 +680,7 @@
       ],
       "relatedDbfIds": [
         57738
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_011t",
@@ -753,12 +725,7 @@
           "name": "카드 유형",
           "value": 7
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_014",
@@ -827,11 +794,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_018",
@@ -895,11 +858,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_019",
@@ -921,7 +880,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -991,9 +950,7 @@
       ],
       "relatedDbfIds": [
         57478
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_019t",
@@ -1015,7 +972,7 @@
         "MECHANICAL",
         "MURLOC"
       ],
-      "race": "기계, 멀록",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -1072,10 +1029,7 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_020",
@@ -1097,7 +1051,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -1157,9 +1111,7 @@
         57738,
         57471,
         61981
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_021",
@@ -1224,10 +1176,7 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_022",
@@ -1308,11 +1257,7 @@
         "TRIGGER_VISUAL",
         "SECRET",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_024",
@@ -1391,10 +1336,7 @@
       ],
       "relatedDbfIds": [
         57471
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_024t",
@@ -1453,12 +1395,7 @@
       "mechanics": [
         "TAUNT",
         "DIVINE_SHIELD"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_025",
@@ -1523,10 +1460,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_026",
@@ -1548,7 +1482,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -1614,9 +1548,7 @@
         57738,
         57471,
         61981
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_028",
@@ -1699,11 +1631,7 @@
       ],
       "relatedDbfIds": [
         56718
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_028t",
@@ -1724,7 +1652,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -1776,10 +1704,7 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_042",
@@ -1833,11 +1758,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_072",
@@ -1905,10 +1826,7 @@
       ],
       "relatedDbfIds": [
         395
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_100",
@@ -1968,10 +1886,7 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_101",
@@ -2031,10 +1946,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_102",
@@ -2098,11 +2010,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_106",
@@ -2171,11 +2079,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_109",
@@ -2197,7 +2101,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "나가",
+      "race": "NAGA",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -2267,9 +2171,7 @@
       ],
       "relatedDbfIds": [
         56626
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_109t",
@@ -2291,7 +2193,7 @@
         "MECHANICAL",
         "NAGA"
       ],
-      "race": "기계, 나가",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -2348,10 +2250,7 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_110",
@@ -2403,10 +2302,7 @@
           "name": "주문 속성",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_113",
@@ -2452,11 +2348,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_114",
@@ -2478,7 +2370,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -2529,9 +2421,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_115",
@@ -2553,7 +2443,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -2615,9 +2505,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_117",
@@ -2663,11 +2551,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_120",
@@ -2731,11 +2615,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_121",
@@ -2757,7 +2637,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -2821,9 +2701,7 @@
       ],
       "relatedDbfIds": [
         401
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_123",
@@ -2906,11 +2784,7 @@
       ],
       "relatedDbfIds": [
         56656
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_123t",
@@ -2931,7 +2805,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -2983,10 +2857,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_124",
@@ -3042,11 +2913,7 @@
           "name": "효과 지속 시각 효과",
           "value": 0
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_126",
@@ -3068,7 +2935,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -3130,9 +2997,7 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_127",
@@ -3154,7 +3019,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -3210,9 +3075,7 @@
       ],
       "mechanics": [
         "DORMANT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_128",
@@ -3264,10 +3127,7 @@
           "name": "주문 속성",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_129",
@@ -3327,10 +3187,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_130",
@@ -3382,10 +3239,7 @@
           "name": "주문 속성",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_131",
@@ -3454,11 +3308,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_132",
@@ -3518,10 +3368,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_133",
@@ -3544,7 +3391,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "기계, 야수",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -3611,9 +3458,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_134",
@@ -3659,11 +3504,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_135",
@@ -3717,11 +3558,7 @@
       ],
       "relatedDbfIds": [
         56688
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_135t",
@@ -3742,7 +3579,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -3775,10 +3612,7 @@
           "name": "카드 유형",
           "value": 4
         }
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_136",
@@ -3861,11 +3695,7 @@
         57986,
         57987,
         57988
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_136t",
@@ -3886,7 +3716,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -3950,10 +3780,7 @@
         57784,
         57986,
         57987
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_136ta",
@@ -4004,12 +3831,7 @@
       ],
       "relatedDbfIds": [
         57986
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_136tb",
@@ -4060,12 +3882,7 @@
       ],
       "relatedDbfIds": [
         57987
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_136tt",
@@ -4123,12 +3940,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_136tt2",
@@ -4186,12 +3998,7 @@
       ],
       "mechanics": [
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_136tt3",
@@ -4255,12 +4062,7 @@
       "mechanics": [
         "TAUNT",
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_138",
@@ -4324,11 +4126,7 @@
       ],
       "mechanics": [
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_140",
@@ -4398,11 +4196,7 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_155",
@@ -4424,7 +4218,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -4489,9 +4283,7 @@
       ],
       "relatedDbfIds": [
         59820
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_155t",
@@ -4512,7 +4304,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -4568,10 +4360,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_156",
@@ -4593,7 +4382,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -4655,9 +4444,7 @@
       "mechanics": [
         "RUSH",
         "DORMANT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_159",
@@ -4679,7 +4466,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -4738,9 +4525,7 @@
       ],
       "relatedDbfIds": [
         57960
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_159t",
@@ -4785,12 +4570,7 @@
           "name": "카드 유형",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_160",
@@ -4868,11 +4648,7 @@
       ],
       "relatedDbfIds": [
         56851
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_160t",
@@ -4893,7 +4669,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -4931,10 +4707,7 @@
           "name": "임프",
           "value": 1
         }
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_163",
@@ -4988,11 +4761,7 @@
       ],
       "relatedDbfIds": [
         57965
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_163t",
@@ -5013,7 +4782,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -5066,10 +4835,7 @@
           "name": "효과 지속 시각 효과",
           "value": 0
         }
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_187",
@@ -5154,11 +4920,7 @@
       "mechanics": [
         "TAUNT",
         "CHARGE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_188",
@@ -5180,7 +4942,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -5253,9 +5015,7 @@
         "TRIGGER_VISUAL",
         "SECRET",
         "DISCOVER"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_190",
@@ -5277,7 +5037,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -5328,9 +5088,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_196",
@@ -5414,11 +5172,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_197",
@@ -5501,11 +5255,7 @@
       ],
       "relatedDbfIds": [
         57172
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_197t",
@@ -5574,12 +5324,7 @@
       "mechanics": [
         "TAUNT",
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_198",
@@ -5646,10 +5391,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_199",
@@ -5721,10 +5463,7 @@
           "name": "주문 속성",
           "value": 7
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_201",
@@ -5747,7 +5486,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "기계, 야수",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -5803,9 +5542,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_202",
@@ -5827,7 +5564,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -5878,9 +5615,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_203",
@@ -5934,11 +5669,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_205",
@@ -5984,11 +5715,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_210",
@@ -6010,7 +5737,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -6080,9 +5807,7 @@
       ],
       "relatedDbfIds": [
         57631
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_210t",
@@ -6104,7 +5829,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "기계, 야수",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -6161,10 +5886,7 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_211",
@@ -6186,7 +5908,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -6242,9 +5964,7 @@
       ],
       "mechanics": [
         "DORMANT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_212",
@@ -6266,7 +5986,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -6334,9 +6054,7 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_213",
@@ -6382,11 +6100,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_214",
@@ -6455,11 +6169,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_230",
@@ -6481,7 +6191,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -6537,9 +6247,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_233",
@@ -6585,11 +6293,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_249",
@@ -6611,7 +6315,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -6668,9 +6372,7 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_252",
@@ -6735,10 +6437,7 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_253",
@@ -6790,10 +6489,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_254",
@@ -6857,11 +6553,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_255",
@@ -6927,11 +6619,7 @@
           "name": "지속 효과",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_256",
@@ -6995,11 +6683,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_257",
@@ -7059,10 +6743,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_258",
@@ -7084,7 +6765,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -7151,9 +6832,7 @@
       "mechanics": [
         "TAUNT",
         "DORMANT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_262",
@@ -7223,11 +6902,7 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_291",
@@ -7273,11 +6948,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_292",
@@ -7329,10 +7000,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_300",
@@ -7389,10 +7057,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_301",
@@ -7414,7 +7079,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -7471,9 +7136,7 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_302",
@@ -7525,10 +7188,7 @@
           "name": "주문 속성",
           "value": 7
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_304",
@@ -7550,7 +7210,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -7621,9 +7281,7 @@
       ],
       "relatedDbfIds": [
         57702
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_304t",
@@ -7644,7 +7302,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -7685,10 +7343,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_305",
@@ -7711,7 +7366,7 @@
         "MECHANICAL",
         "DEMON"
       ],
-      "race": "기계, 악마",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -7777,9 +7432,7 @@
       ],
       "mechanics": [
         "DORMANT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_306",
@@ -7831,10 +7484,7 @@
           "name": "주문 속성",
           "value": 7
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_307",
@@ -7856,7 +7506,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -7907,9 +7557,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_309",
@@ -7991,11 +7639,7 @@
       ],
       "relatedDbfIds": [
         57155
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_309t",
@@ -8017,7 +7661,7 @@
         "MECHANICAL",
         "DEMON"
       ],
-      "race": "기계, 악마",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -8068,10 +7712,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_321",
@@ -8156,11 +7797,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_334",
@@ -8229,11 +7866,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_341",
@@ -8256,7 +7889,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "언데드, 용족",
+      "race": "UNDEAD",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -8318,9 +7951,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_423",
@@ -8342,7 +7973,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -8419,9 +8050,7 @@
       "mechanics": [
         "TAUNT",
         "LIFESTEAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_429",
@@ -8487,10 +8116,7 @@
       "relatedDbfIds": [
         56876,
         56877
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_429p",
@@ -8525,12 +8151,7 @@
           "name": "카드 유형",
           "value": 10
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_429p2",
@@ -8565,12 +8186,7 @@
           "name": "카드 유형",
           "value": 10
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_430",
@@ -8634,11 +8250,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_480",
@@ -8717,11 +8329,7 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_486",
@@ -8743,7 +8351,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -8810,9 +8418,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_491",
@@ -8866,11 +8472,7 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_493",
@@ -8892,7 +8494,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -8953,9 +8555,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_496",
@@ -8978,7 +8578,7 @@
         "DEMON",
         "MURLOC"
       ],
-      "race": "악마, 멀록",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -9040,9 +8640,7 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_509",
@@ -9106,11 +8704,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_514",
@@ -9162,10 +8756,7 @@
           "name": "주문 속성",
           "value": 7
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "BT_601",
@@ -9219,11 +8810,7 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_701",
@@ -9287,11 +8874,7 @@
       ],
       "mechanics": [
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_702",
@@ -9313,7 +8896,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -9376,9 +8959,7 @@
         "STEALTH",
         "BATTLECRY",
         "IMMUNE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_703",
@@ -9456,11 +9037,7 @@
       ],
       "relatedDbfIds": [
         57498
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_703t",
@@ -9481,7 +9058,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -9522,10 +9099,7 @@
       ],
       "mechanics": [
         "STEALTH"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_707",
@@ -9593,11 +9167,7 @@
       ],
       "relatedDbfIds": [
         57218
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_707t",
@@ -9618,7 +9188,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -9659,10 +9229,7 @@
       ],
       "mechanics": [
         "POISONOUS"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_709",
@@ -9716,11 +9283,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_710",
@@ -9742,7 +9305,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -9799,9 +9362,7 @@
       "mechanics": [
         "STEALTH",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_711",
@@ -9871,11 +9432,7 @@
       "mechanics": [
         "BATTLECRY",
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_713",
@@ -9897,7 +9454,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -9967,9 +9524,7 @@
       ],
       "relatedDbfIds": [
         57156
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_713t",
@@ -9990,7 +9545,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -10036,10 +9591,7 @@
       ],
       "mechanics": [
         "STEALTH"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_714",
@@ -10061,7 +9613,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -10118,9 +9670,7 @@
       "mechanics": [
         "FREEZE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_715",
@@ -10190,11 +9740,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_716",
@@ -10264,11 +9810,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_717",
@@ -10290,7 +9832,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -10347,9 +9889,7 @@
       "mechanics": [
         "STEALTH",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_720",
@@ -10425,11 +9965,7 @@
         "TAUNT",
         "BATTLECRY",
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_721",
@@ -10501,11 +10037,7 @@
       ],
       "relatedDbfIds": [
         59650
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_721t",
@@ -10550,12 +10082,7 @@
           "name": "카드 유형",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_722",
@@ -10625,11 +10152,7 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_723",
@@ -10699,11 +10222,7 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_724",
@@ -10773,11 +10292,7 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_726",
@@ -10799,7 +10314,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -10858,9 +10373,7 @@
       ],
       "relatedDbfIds": [
         57200
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_726t",
@@ -10905,12 +10418,7 @@
           "name": "카드 유형",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_727",
@@ -10932,7 +10440,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -10983,9 +10491,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_728",
@@ -11007,7 +10513,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -11066,9 +10572,7 @@
       ],
       "relatedDbfIds": [
         57903
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_728t",
@@ -11089,7 +10593,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -11132,10 +10636,7 @@
           "name": "수집 가능",
           "value": 0
         }
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_729",
@@ -11199,11 +10700,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_730",
@@ -11267,11 +10764,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_731",
@@ -11335,11 +10828,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_732",
@@ -11361,7 +10850,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -11412,9 +10901,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_733",
@@ -11437,7 +10924,7 @@
         "MECHANICAL",
         "DEMON"
       ],
-      "race": "기계, 악마",
+      "race": "MECHANICAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -11485,9 +10972,7 @@
           "name": "게임 태그 2539",
           "value": 1
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_734",
@@ -11509,7 +10994,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -11552,9 +11037,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_735",
@@ -11577,7 +11060,7 @@
         "ELEMENTAL",
         "BEAST"
       ],
-      "race": "정령, 야수",
+      "race": "ELEMENTAL",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -11651,9 +11134,7 @@
       ],
       "relatedDbfIds": [
         57982
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_735t",
@@ -11706,12 +11187,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_737",
@@ -11786,11 +11262,7 @@
       "mechanics": [
         "BATTLECRY",
         "DORMANT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_761",
@@ -11812,7 +11284,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "나가",
+      "race": "NAGA",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -11883,9 +11355,7 @@
       ],
       "relatedDbfIds": [
         60281
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_761t",
@@ -11906,7 +11376,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "나가",
+      "race": "NAGA",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -11962,10 +11432,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_781",
@@ -12034,11 +11501,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_850",
@@ -12060,7 +11523,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -12140,9 +11603,7 @@
       ],
       "relatedDbfIds": [
         58550
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "BT_850t",
@@ -12187,12 +11648,7 @@
           "name": "카드 유형",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "BT_934",
@@ -12214,7 +11670,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "BLACK_TEMPLE",
       "nativeTags": [
         {
@@ -12270,9 +11726,7 @@
       ],
       "mechanics": [
         "DORMANT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     }
   ]
 }
