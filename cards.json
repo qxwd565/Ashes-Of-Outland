@@ -52,7 +52,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_003",
@@ -112,7 +114,9 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_004",
@@ -190,7 +194,9 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_006",
@@ -252,7 +258,9 @@
           "name": "게임 태그 3630",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_008",
@@ -330,7 +338,9 @@
       ],
       "relatedDbfIds": [
         57906
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_008t",
@@ -397,7 +407,9 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_009",
@@ -483,7 +495,9 @@
       ],
       "relatedDbfIds": [
         57920
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_009t",
@@ -537,7 +551,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_010",
@@ -610,7 +626,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_011",
@@ -680,7 +698,9 @@
       ],
       "relatedDbfIds": [
         57738
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_011t",
@@ -725,7 +745,9 @@
           "name": "카드 유형",
           "value": 7
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_014",
@@ -794,7 +816,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_018",
@@ -858,7 +882,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_019",
@@ -950,7 +976,9 @@
       ],
       "relatedDbfIds": [
         57478
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_019t",
@@ -1029,7 +1057,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_020",
@@ -1111,7 +1141,9 @@
         57738,
         57471,
         61981
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_021",
@@ -1176,7 +1208,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_022",
@@ -1257,7 +1291,9 @@
         "TRIGGER_VISUAL",
         "SECRET",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_024",
@@ -1336,7 +1372,9 @@
       ],
       "relatedDbfIds": [
         57471
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_024t",
@@ -1395,7 +1433,9 @@
       "mechanics": [
         "TAUNT",
         "DIVINE_SHIELD"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_025",
@@ -1460,7 +1500,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_026",
@@ -1548,7 +1590,9 @@
         57738,
         57471,
         61981
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_028",
@@ -1631,7 +1675,9 @@
       ],
       "relatedDbfIds": [
         56718
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_028t",
@@ -1704,7 +1750,9 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_042",
@@ -1758,7 +1806,9 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_072",
@@ -1826,7 +1876,9 @@
       ],
       "relatedDbfIds": [
         395
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_100",
@@ -1886,7 +1938,9 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_101",
@@ -1946,7 +2000,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_102",
@@ -2010,7 +2066,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_106",
@@ -2079,7 +2137,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_109",
@@ -2171,7 +2231,9 @@
       ],
       "relatedDbfIds": [
         56626
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_109t",
@@ -2250,7 +2312,9 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_110",
@@ -2302,7 +2366,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_113",
@@ -2348,7 +2414,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_114",
@@ -2421,7 +2489,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_115",
@@ -2505,7 +2575,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_117",
@@ -2551,7 +2623,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_120",
@@ -2615,7 +2689,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_121",
@@ -2701,7 +2777,9 @@
       ],
       "relatedDbfIds": [
         401
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_123",
@@ -2784,7 +2862,9 @@
       ],
       "relatedDbfIds": [
         56656
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_123t",
@@ -2857,7 +2937,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_124",
@@ -2913,7 +2995,9 @@
           "name": "효과 지속 시각 효과",
           "value": 0
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_126",
@@ -2997,7 +3081,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_127",
@@ -3075,7 +3161,9 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_128",
@@ -3127,7 +3215,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_129",
@@ -3187,7 +3277,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_130",
@@ -3239,7 +3331,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_131",
@@ -3308,7 +3402,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_132",
@@ -3368,7 +3464,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_133",
@@ -3458,7 +3556,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_134",
@@ -3504,7 +3604,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_135",
@@ -3558,7 +3660,9 @@
       ],
       "relatedDbfIds": [
         56688
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_135t",
@@ -3612,7 +3716,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_136",
@@ -3695,7 +3801,9 @@
         57986,
         57987,
         57988
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_136t",
@@ -3780,7 +3888,9 @@
         57784,
         57986,
         57987
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_136ta",
@@ -3831,7 +3941,9 @@
       ],
       "relatedDbfIds": [
         57986
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_136tb",
@@ -3882,7 +3994,9 @@
       ],
       "relatedDbfIds": [
         57987
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_136tt",
@@ -3940,7 +4054,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_136tt2",
@@ -3998,7 +4114,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_136tt3",
@@ -4062,7 +4180,9 @@
       "mechanics": [
         "TAUNT",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_138",
@@ -4126,7 +4246,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_140",
@@ -4196,7 +4318,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_155",
@@ -4283,7 +4407,9 @@
       ],
       "relatedDbfIds": [
         59820
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_155t",
@@ -4360,7 +4486,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_156",
@@ -4444,7 +4572,9 @@
       "mechanics": [
         "RUSH",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_159",
@@ -4525,7 +4655,9 @@
       ],
       "relatedDbfIds": [
         57960
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_159t",
@@ -4570,7 +4702,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_160",
@@ -4648,7 +4782,9 @@
       ],
       "relatedDbfIds": [
         56851
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_160t",
@@ -4707,7 +4843,9 @@
           "name": "임프",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_163",
@@ -4761,7 +4899,9 @@
       ],
       "relatedDbfIds": [
         57965
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_163t",
@@ -4835,7 +4975,9 @@
           "name": "효과 지속 시각 효과",
           "value": 0
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_187",
@@ -4920,7 +5062,9 @@
       "mechanics": [
         "TAUNT",
         "CHARGE"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_188",
@@ -5015,7 +5159,9 @@
         "TRIGGER_VISUAL",
         "SECRET",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_190",
@@ -5088,7 +5234,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_196",
@@ -5172,7 +5320,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_197",
@@ -5255,7 +5405,9 @@
       ],
       "relatedDbfIds": [
         57172
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_197t",
@@ -5324,7 +5476,9 @@
       "mechanics": [
         "TAUNT",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_198",
@@ -5391,7 +5545,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_199",
@@ -5463,7 +5619,9 @@
           "name": "주문 속성",
           "value": 7
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_201",
@@ -5542,7 +5700,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_202",
@@ -5615,7 +5775,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_203",
@@ -5669,7 +5831,9 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_205",
@@ -5715,7 +5879,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_210",
@@ -5807,7 +5973,9 @@
       ],
       "relatedDbfIds": [
         57631
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_210t",
@@ -5886,7 +6054,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_211",
@@ -5964,7 +6134,9 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_212",
@@ -6054,7 +6226,9 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_213",
@@ -6100,7 +6274,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_214",
@@ -6169,7 +6345,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_230",
@@ -6247,7 +6425,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_233",
@@ -6293,7 +6473,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_249",
@@ -6372,7 +6554,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_252",
@@ -6437,7 +6621,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_253",
@@ -6489,7 +6675,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_254",
@@ -6553,7 +6741,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_255",
@@ -6619,7 +6809,9 @@
           "name": "지속 효과",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-03-18",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_256",
@@ -6683,7 +6875,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_257",
@@ -6743,7 +6937,9 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_258",
@@ -6832,7 +7028,9 @@
       "mechanics": [
         "TAUNT",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_262",
@@ -6902,7 +7100,9 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_291",
@@ -6948,7 +7148,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_292",
@@ -7000,7 +7202,9 @@
           "name": "주문 속성",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_300",
@@ -7057,7 +7261,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_301",
@@ -7136,7 +7342,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_302",
@@ -7188,7 +7396,9 @@
           "name": "주문 속성",
           "value": 7
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_304",
@@ -7281,7 +7491,9 @@
       ],
       "relatedDbfIds": [
         57702
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_304t",
@@ -7343,7 +7555,9 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_305",
@@ -7432,7 +7646,9 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_306",
@@ -7484,7 +7700,9 @@
           "name": "주문 속성",
           "value": 7
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_307",
@@ -7557,7 +7775,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_309",
@@ -7639,7 +7859,9 @@
       ],
       "relatedDbfIds": [
         57155
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_309t",
@@ -7712,7 +7934,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_321",
@@ -7797,7 +8021,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_334",
@@ -7866,7 +8092,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_341",
@@ -7951,7 +8179,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_423",
@@ -8050,7 +8280,9 @@
       "mechanics": [
         "TAUNT",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_429",
@@ -8116,7 +8348,9 @@
       "relatedDbfIds": [
         56876,
         56877
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_429p",
@@ -8151,7 +8385,9 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_429p2",
@@ -8186,7 +8422,9 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_430",
@@ -8250,7 +8488,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_480",
@@ -8329,7 +8569,9 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_486",
@@ -8418,7 +8660,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_491",
@@ -8472,7 +8716,9 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_493",
@@ -8555,7 +8801,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_496",
@@ -8640,7 +8888,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_509",
@@ -8704,7 +8954,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_514",
@@ -8756,7 +9008,9 @@
           "name": "주문 속성",
           "value": 7
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_601",
@@ -8810,7 +9064,9 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_701",
@@ -8874,7 +9130,9 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_702",
@@ -8959,7 +9217,9 @@
         "STEALTH",
         "BATTLECRY",
         "IMMUNE"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_703",
@@ -9037,7 +9297,9 @@
       ],
       "relatedDbfIds": [
         57498
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_703t",
@@ -9099,7 +9361,9 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_707",
@@ -9167,7 +9431,9 @@
       ],
       "relatedDbfIds": [
         57218
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_707t",
@@ -9229,7 +9495,9 @@
       ],
       "mechanics": [
         "POISONOUS"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_709",
@@ -9283,7 +9551,9 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_710",
@@ -9362,7 +9632,9 @@
       "mechanics": [
         "STEALTH",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_711",
@@ -9432,7 +9704,9 @@
       "mechanics": [
         "BATTLECRY",
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_713",
@@ -9524,7 +9798,9 @@
       ],
       "relatedDbfIds": [
         57156
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_713t",
@@ -9591,7 +9867,9 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_714",
@@ -9670,7 +9948,9 @@
       "mechanics": [
         "FREEZE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_715",
@@ -9740,7 +10020,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_716",
@@ -9810,7 +10092,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_717",
@@ -9889,7 +10173,9 @@
       "mechanics": [
         "STEALTH",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_720",
@@ -9965,7 +10251,9 @@
         "TAUNT",
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_721",
@@ -10037,7 +10325,9 @@
       ],
       "relatedDbfIds": [
         59650
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_721t",
@@ -10082,7 +10372,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_722",
@@ -10152,7 +10444,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_723",
@@ -10222,7 +10516,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_724",
@@ -10292,7 +10588,9 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_726",
@@ -10373,7 +10671,9 @@
       ],
       "relatedDbfIds": [
         57200
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_726t",
@@ -10418,7 +10718,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_727",
@@ -10491,7 +10793,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_728",
@@ -10572,7 +10876,9 @@
       ],
       "relatedDbfIds": [
         57903
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_728t",
@@ -10636,7 +10942,9 @@
           "name": "수집 가능",
           "value": 0
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_729",
@@ -10700,7 +11008,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_730",
@@ -10764,7 +11074,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_731",
@@ -10828,7 +11140,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_732",
@@ -10901,7 +11215,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_733",
@@ -10972,7 +11288,9 @@
           "name": "게임 태그 2539",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_734",
@@ -11037,7 +11355,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_735",
@@ -11134,7 +11454,9 @@
       ],
       "relatedDbfIds": [
         57982
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_735t",
@@ -11187,7 +11509,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_737",
@@ -11262,7 +11586,9 @@
       "mechanics": [
         "BATTLECRY",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_761",
@@ -11355,7 +11681,9 @@
       ],
       "relatedDbfIds": [
         60281
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_761t",
@@ -11432,7 +11760,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_781",
@@ -11501,7 +11831,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_850",
@@ -11603,7 +11935,9 @@
       ],
       "relatedDbfIds": [
         58550
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_850t",
@@ -11648,7 +11982,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "BT_934",
@@ -11726,7 +12062,9 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2020-04-08",
+      "releaseStatus": "verified"
     }
   ]
 }

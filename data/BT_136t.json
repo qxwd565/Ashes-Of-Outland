@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]<b>도발</b>, <b>선택 -</b> 9/9 곰팡이\n거인을 소환합니다.\n그 하수인에게 <b>도발</b> 또는\n<b>속공</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [

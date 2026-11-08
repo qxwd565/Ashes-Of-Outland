@@ -71,7 +71,9 @@
       }
     ],
     "nativeRawText": "영구히 <b>은신</b> 상태입니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

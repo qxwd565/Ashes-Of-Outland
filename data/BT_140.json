@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b>\n피해를 받은 하수인이 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

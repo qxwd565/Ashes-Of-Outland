@@ -87,7 +87,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, 내 턴이 끝날 때, 무작위 용족을 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

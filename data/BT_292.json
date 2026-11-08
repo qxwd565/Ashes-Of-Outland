@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "하수인에게 +2/+1을 부여합니다. 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

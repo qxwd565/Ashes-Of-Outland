@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 다른 <b>모든</b> 하수인에게 6의 피해를 무작위로 나누어 입힙니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b>\n3/4 용기수를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

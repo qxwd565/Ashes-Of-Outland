@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "[x]<b>은신</b>, <b>죽음의 메아리:</b>\n'아카마 프라임'을\n내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "피해를 $5 줍니다.\n<i>(1회 남음!)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

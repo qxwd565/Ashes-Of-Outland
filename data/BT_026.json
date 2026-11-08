@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]<b>도발</b>, <b>전투의 함성:</b>\n이번 게임에서 내 성서의\n비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

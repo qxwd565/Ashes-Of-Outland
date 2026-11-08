@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 다른 멀록들에게 +1/+1을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

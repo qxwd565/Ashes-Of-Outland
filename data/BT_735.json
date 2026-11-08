@@ -97,7 +97,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b>\n0/3 알라르의 재를 소환합니다.\n알라르의 재는 내 다음 턴에\n이 하수인을 부활시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

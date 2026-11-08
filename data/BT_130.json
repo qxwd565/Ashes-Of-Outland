@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "빈 마나 수정을 2개 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

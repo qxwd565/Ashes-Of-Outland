@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "내 손에 있는 주문 하나당 2/2 반딧불이를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

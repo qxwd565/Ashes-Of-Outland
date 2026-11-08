@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "<b>비밀:</b> 상대편이 주문을 시전한 후에, 카드를 2장 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

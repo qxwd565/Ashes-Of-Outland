@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]하수인에게 +1/+1과\n\"<b>죽음의 메아리:</b> '지혜의 성서'\n주문을 내 손으로 가져옴\"\n능력을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

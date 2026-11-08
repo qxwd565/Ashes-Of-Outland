@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "피해를 $5 줍니다. 내 덱에 하수인이 없으면, 비용이 5인 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

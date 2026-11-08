@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "내 덱에 있는 주문들의 비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

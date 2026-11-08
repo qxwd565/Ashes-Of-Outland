@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "생명력을 #8 회복시킵니다. <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 8/8 수호자를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

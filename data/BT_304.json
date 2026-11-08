@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>죽음의 메아리:</b>\n<b>생명력 흡수</b> 능력이 있는 5/5 공포의 군주를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

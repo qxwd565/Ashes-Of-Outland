@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "2턴 동안 <b>휴면</b> 상태입니다. 깨어나면, 모든 적 하수인에게 피해를 2 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

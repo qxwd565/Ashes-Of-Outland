@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "야수를 뽑습니다. 그 야수에게 +3/+3을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

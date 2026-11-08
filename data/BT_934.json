@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태입니다.\n깨어나면, 모든 적에게\n10의 피해를 무작위로\n나누어 입힙니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

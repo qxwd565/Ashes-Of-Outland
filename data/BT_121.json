@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태입니다.\n깨어나면, 3/2 도끼를\n장착합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

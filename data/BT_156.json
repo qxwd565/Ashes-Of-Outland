@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, 2턴 동안\n<b>휴면</b> 상태입니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 이번 턴에 내 주문들의 비용이 (1)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

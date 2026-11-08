@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b>\n내 손에 있는 무작위\n악마를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

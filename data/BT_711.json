@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 전장에 <b>비밀</b>이\n있으면, 하수인을 주인의\n손으로 돌려보내고 비용을\n(2) 증가시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

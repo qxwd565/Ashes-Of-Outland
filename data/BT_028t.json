@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>주문 공격력 +1</b>, <b>전투의 함성:</b> 무작위 마법사 주문을 5회 시전합니다. <i>(가능하다면 적을 대상으로 선택)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

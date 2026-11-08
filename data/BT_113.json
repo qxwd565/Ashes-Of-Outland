@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "하수인에게 +2/+2를 부여합니다. 그 하수인이 토템이면, 복사하여 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

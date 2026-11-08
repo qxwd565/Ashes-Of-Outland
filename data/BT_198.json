@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "적 하수인들을 복사하여 소환합니다.\n그 하수인들이 복사한 하수인을 각각 공격합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

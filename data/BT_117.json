@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "<b>모든</b> 하수인에게 피해를 $1 줍니다. 하수인이 죽을 때까지 반복됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

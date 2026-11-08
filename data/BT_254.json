@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]내가 하수인에게\n주문을 시전한 후에,\n무작위 사제 주문을 내\n손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

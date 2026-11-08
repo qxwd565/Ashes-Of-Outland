@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "적을 <b>빙결</b> 상태로 만듭니다. 3/6 물의 정령을 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

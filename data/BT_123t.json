@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, 이 하수인이 공격하여 다른 하수인을 처치할 때마다 방어도를 +10 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

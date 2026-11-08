@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, 이 하수인이 공격한 후에, 비용이 8인 무작위 하수인을 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

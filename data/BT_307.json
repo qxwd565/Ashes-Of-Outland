@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 이번 턴에 내 영웅이 피해를 받았으면, 마나 수정을 3개 회복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

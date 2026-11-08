@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 3장 뽑습니다.\n하수인을 뽑으면,\n그 하수인을 버립니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

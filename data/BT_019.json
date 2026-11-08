@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "[x]<b>천상의 보호막</b>,\n<b>죽음의 메아리:</b>\n'아옳으엃 프라임'을 내\n덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

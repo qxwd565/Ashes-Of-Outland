@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 공격한 후에,\n내 하수인들을 비용이\n(1) 높은 무작위 하수인으로 변신시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

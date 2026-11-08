@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>도발</b>, <b>속공</b>, <b>전투의 함성:</b>\n이번 턴에 공격력을\n+4 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

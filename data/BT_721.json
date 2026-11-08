@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때,\n이 하수인과 능력치가 같은 부패물을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

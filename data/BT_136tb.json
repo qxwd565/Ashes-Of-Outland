@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b> 능력이 있는 9/9 투사를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [

@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "<b>비밀:</b> 내 하수인이\n공격받으면, 그 하수인을\n비용이 (3) 높은 무작위\n하수인으로 변신시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]내 손에 있는 <b>모든</b> 카드를\n무작위 악마로 교체합니다.\n그 악마들에게 +2/+2를\n부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

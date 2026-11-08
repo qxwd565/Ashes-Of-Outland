@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 전장에 <b>은신</b>한 하수인이 있으면, 카드를 2장 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

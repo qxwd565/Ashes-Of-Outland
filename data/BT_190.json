@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "[x]내 턴이 끝날 때,\n양옆에 있는 하수인 중\n하나를 이 하수인으로\n변신시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

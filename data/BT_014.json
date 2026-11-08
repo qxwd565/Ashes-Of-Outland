@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>:&\n주문을 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

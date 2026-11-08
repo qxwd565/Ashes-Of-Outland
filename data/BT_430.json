@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]내 영웅이 하수인을\n공격한 후에,\n다시 공격할 수\n있습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

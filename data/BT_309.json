@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]내 악마의 비용이 (1)\n감소합니다. <b>죽음의 메아리:</b>\n'칸레타드 프라임'을 내 덱에\n섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

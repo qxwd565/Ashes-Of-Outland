@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, 생명력이 최대인 상태면 공격력을 +2 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

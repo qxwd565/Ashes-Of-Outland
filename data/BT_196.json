@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 하수인을\n처치합니다. 이번 턴에 이\n카드를 뽑았다면, 다른 <b>모든</b>\n하수인을 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

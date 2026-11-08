@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 공격한 후에, 무작위 멀록을\n내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

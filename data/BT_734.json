@@ -71,7 +71,9 @@
       }
     ],
     "nativeRawText": "영웅을 공격할 수 없습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

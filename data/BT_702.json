@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>은신</b>한 하수인에게 이번 턴에 공격력 +3과 <b>면역</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]하수인에게 +1/+3과\n<b>도발</b>을 부여합니다.\n내 마나 수정이 7개 이상이면,\n비용이 (0)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

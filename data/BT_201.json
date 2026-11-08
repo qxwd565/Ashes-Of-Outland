@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 모든 적에게 이 하수인의 공격력만큼의 피해를 무작위로 나누어 입힙니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

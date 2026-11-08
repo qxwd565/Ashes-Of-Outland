@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]내 손을 무작위 마법사\n주문으로 가득 채웁니다.\n그 주문들은 <b>일시적</b>입니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

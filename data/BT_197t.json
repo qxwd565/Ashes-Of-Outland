@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>생명력 흡수</b>, 상대편의 턴에 모면 상태가 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

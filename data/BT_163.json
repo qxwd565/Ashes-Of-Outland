@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]무작위 적을 공격하는\n3/5 갈래발굽을\n4마리 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

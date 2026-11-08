@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태입니다.\n깨어나면, 내 손에 있는 모든\n하수인에게 +2/+2를\n부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

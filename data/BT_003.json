@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "<b>비밀:</b> 상대편이 주문을 시전한 후에, 비용이 4인 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>비밀:</b> 상대편이 하수인을 낸 후에,\n<b>독성</b> 능력이 있는 2/3 매복자를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

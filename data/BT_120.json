@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 적 하수인을 선택합니다. 그 하수인과 죽을 때까지 싸웁니다!",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

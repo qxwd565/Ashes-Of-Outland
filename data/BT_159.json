@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편에게 1/1 여사냥꾼을 3명 소환해 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "적 하수인과 무작위 아군 하수인에게 피해를 $3 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

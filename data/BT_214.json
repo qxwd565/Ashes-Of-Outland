@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b>\n내 손에서 야수를\n3마리 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

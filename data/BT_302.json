@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "하수인을 뽑습니다. 내 손에 카드가 8장 이상 있으면, 그 하수인의 비용이 (5) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

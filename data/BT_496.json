@@ -87,7 +87,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 이번 턴에\n내 영웅이 공격했다면,\n공격력 +1과 <b>속공</b>을\n얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "<i>(교도관 3명이 죽으면 마그테리돈이 깨어납니다.)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

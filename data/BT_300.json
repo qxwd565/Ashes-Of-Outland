@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]이 카드를 내거나\n버릴 때, 카드를 3장\n뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

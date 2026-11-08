@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "<b>천상의 보호막</b>, <b>전투의 함성:</b> 무작위 멀록을 4마리 소환합니다. 그 멀록들에게 <b>천상의 보호막</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

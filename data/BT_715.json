@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, 이 하수인은\n피해를 받을 때마다 공격력을 +2 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

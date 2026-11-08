@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "이 하수인은 다른 하수인에게 피해를 준 후에, 그 하수인을 전염성 스포어링으로 변신시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

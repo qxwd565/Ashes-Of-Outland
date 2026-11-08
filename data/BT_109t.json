@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "[x]<b>주문 공격력 +1</b>\n<b>전투의 함성:</b> 주문을 셋\n뽑습니다. 그 주문들의 비용을\n(3) 감소시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

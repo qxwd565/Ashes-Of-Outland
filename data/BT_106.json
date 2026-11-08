@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 양옆의 하수인들을 비용이 (1) 높은 무작위 하수인으로 변신시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

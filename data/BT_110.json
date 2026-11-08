@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "하수인에게 피해를 $8 줍니다. 내가 이전 턴에 주문을 시전했다면, 비용이 (3) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

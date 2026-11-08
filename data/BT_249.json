@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]<b>도발</b>, <b>죽음의 메아리</b>:\n이 하수인의 공격력만큼\n방어도를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

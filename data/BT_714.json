@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 적을 <b>빙결</b> 상태로 만듭니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

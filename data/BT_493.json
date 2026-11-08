@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때,& 모든 적에게 6의 피해를 무작위로 나누어 입힙니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

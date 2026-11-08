@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>생명력 흡수</b>, <b>죽음의 메아리:</b>\n'영혼의 성물함 프라임'을\n내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]하수인에게 +2/+3과\n <b>생명력 흡수</b>를\n부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

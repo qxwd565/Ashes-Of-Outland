@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내가 이전 턴에 주문을 시전했다면, 다른 모든 하수인에게 피해를 2 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

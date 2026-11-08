@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b>\n하수인을 선택합니다.\n그 하수인은 2턴 동안\n<b>휴면</b> 상태가 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

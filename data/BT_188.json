@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "내가 <b>비밀</b>을 낸 후에,\n다른 직업의 <b>비밀</b>을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

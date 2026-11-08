@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>돌진</b>, 내 캐릭터들의 공격이 <b>도발</b>을 무시합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2020-04-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],
