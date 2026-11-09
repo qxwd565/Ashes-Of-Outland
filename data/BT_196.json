@@ -6,7 +6,7 @@
     "id": "BT_196",
     "dbfId": 57326,
     "name": "파괴자 켈리단",
-    "text": "<b>전투의 함성:</b> 하수인을\n처치합니다. 이번 턴에 이\n카드를 뽑았다면, 다른 <b>모든</b>\n하수인을 처치합니다.",
+    "text": "<b>전투의 함성:</b> 하수인을<br></br>처치합니다. 이번 턴에 이<br></br>카드를 뽑았다면, 다른 <b>모든</b><br></br>하수인을 처치합니다.",
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -88,7 +88,7 @@
         "value": 0
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 하수인을\n처치합니다. 이번 턴에 이\n카드를 뽑았다면, 다른 <b>모든</b>\n하수인을 처치합니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 하수인을<br></br>처치합니다. 이번 턴에 이<br></br>카드를 뽑았다면, 다른 <b>모든</b><br></br>하수인을 처치합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

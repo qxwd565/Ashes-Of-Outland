@@ -6,7 +6,7 @@
     "id": "BT_212",
     "dbfId": 56694,
     "name": "모크나탈 사자",
-    "text": "<b>속공</b>, <b>전투의 함성:</b>\n아군 하수인의\n<b>죽음의 메아리</b>를 복사합니다.",
+    "text": "<b>속공</b>, <b>전투의 함성:</b><br></br>아군 하수인의<br></br><b>죽음의 메아리</b>를 복사합니다.",
     "type": "MINION",
     "cardClass": "HUNTER",
     "classes": [],
@@ -90,7 +90,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b>\n아군 하수인의\n<b>죽음의 메아리</b>를 복사합니다.",
+    "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b><br></br>아군 하수인의<br></br><b>죽음의 메아리</b>를 복사합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

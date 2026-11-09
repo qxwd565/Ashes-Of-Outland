@@ -6,7 +6,7 @@
     "id": "BT_601",
     "dbfId": 58201,
     "name": "굴단의 해골",
-    "text": "카드를 3장 뽑습니다.\n<b>추방자:</b> 그 카드들의\n비용을 (3) 감소시킵니다.",
+    "text": "카드를 3장 뽑습니다.<br></br><b>추방자:</b> 그 카드들의<br></br>비용을 (3) 감소시킵니다.",
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -58,7 +58,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]카드를 3장 뽑습니다.\n<b>추방자:</b> 그 카드들의\n비용을 (3) 감소시킵니다.",
+    "nativeRawText": "[x]카드를 3장 뽑습니다.<br></br><b>추방자:</b> 그 카드들의<br></br>비용을 (3) 감소시킵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

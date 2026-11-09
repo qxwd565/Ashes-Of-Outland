@@ -6,7 +6,7 @@
     "id": "BT_726",
     "dbfId": 57186,
     "name": "용아귀 하늘추적자",
-    "text": "<b>죽음의 메아리:</b>\n3/4 용기수를 소환합니다.",
+    "text": "<b>죽음의 메아리:</b><br></br>3/4 용기수를 소환합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 57200
       }
     ],
-    "nativeRawText": "<b>죽음의 메아리:</b>\n3/4 용기수를 소환합니다.",
+    "nativeRawText": "<b>죽음의 메아리:</b><br></br>3/4 용기수를 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

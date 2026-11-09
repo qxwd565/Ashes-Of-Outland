@@ -6,7 +6,7 @@
     "id": "BT_042",
     "dbfId": 57145,
     "name": "속임수",
-    "text": "<b>비밀:</b> 내 하수인이\n공격받으면, 그 하수인을\n비용이 (3) 높은 무작위\n하수인으로 변신시킵니다.",
+    "text": "<b>비밀:</b> 내 하수인이<br></br>공격받으면, 그 하수인을<br></br>비용이 (3) 높은 무작위<br></br>하수인으로 변신시킵니다.",
     "type": "SPELL",
     "cardClass": "ROGUE",
     "classes": [],
@@ -58,7 +58,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>비밀:</b> 내 하수인이\n공격받으면, 그 하수인을\n비용이 (3) 높은 무작위\n하수인으로 변신시킵니다.",
+    "nativeRawText": "<b>비밀:</b> 내 하수인이<br></br>공격받으면, 그 하수인을<br></br>비용이 (3) 높은 무작위<br></br>하수인으로 변신시킵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

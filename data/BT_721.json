@@ -6,7 +6,7 @@
     "id": "BT_721",
     "dbfId": 57181,
     "name": "기포나는 부패물",
-    "text": "내 턴이 끝날 때,\n이 하수인과 능력치가 같은 부패물을 소환합니다.",
+    "text": "내 턴이 끝날 때,<br></br>이 하수인과 능력치가 같은 부패물을 소환합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 59650
       }
     ],
-    "nativeRawText": "내 턴이 끝날 때,\n이 하수인과 능력치가 같은 부패물을 소환합니다.",
+    "nativeRawText": "내 턴이 끝날 때,<br></br>이 하수인과 능력치가 같은 부패물을 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

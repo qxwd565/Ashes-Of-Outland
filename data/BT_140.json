@@ -6,7 +6,7 @@
     "id": "BT_140",
     "dbfId": 56734,
     "name": "해골이빨 기수",
-    "text": "<b>전투의 함성:</b>\n피해를 받은 하수인이 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
+    "text": "<b>전투의 함성:</b><br></br>피해를 받은 하수인이 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>전투의 함성:</b>\n피해를 받은 하수인이 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
+    "nativeRawText": "<b>전투의 함성:</b><br></br>피해를 받은 하수인이 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

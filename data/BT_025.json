@@ -6,7 +6,7 @@
     "id": "BT_025",
     "dbfId": 56555,
     "name": "지혜의 성서",
-    "text": "하수인에게 +1/+1과\n\"<b>죽음의 메아리:</b> '지혜의 성서'\n주문을 내 손으로 가져옴\"\n능력을 부여합니다.",
+    "text": "하수인에게 +1/+1과<br></br>\"<b>죽음의 메아리:</b> '지혜의 성서'<br></br>주문을 내 손으로 가져옴\"<br></br>능력을 부여합니다.",
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 5
       }
     ],
-    "nativeRawText": "[x]하수인에게 +1/+1과\n\"<b>죽음의 메아리:</b> '지혜의 성서'\n주문을 내 손으로 가져옴\"\n능력을 부여합니다.",
+    "nativeRawText": "[x]하수인에게 +1/+1과<br></br>\"<b>죽음의 메아리:</b> '지혜의 성서'<br></br>주문을 내 손으로 가져옴\"<br></br>능력을 부여합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

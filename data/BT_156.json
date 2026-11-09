@@ -6,7 +6,7 @@
     "id": "BT_156",
     "dbfId": 56820,
     "name": "사로잡힌 썩은마귀",
-    "text": "<b>속공</b>, 2턴 동안\n<b>휴면</b> 상태입니다.",
+    "text": "<b>속공</b>, 2턴 동안<br></br><b>휴면</b> 상태입니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -85,7 +85,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>속공</b>, 2턴 동안\n<b>휴면</b> 상태입니다.",
+    "nativeRawText": "<b>속공</b>, 2턴 동안<br></br><b>휴면</b> 상태입니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

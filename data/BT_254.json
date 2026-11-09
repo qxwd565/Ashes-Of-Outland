@@ -6,7 +6,7 @@
     "id": "BT_254",
     "dbfId": 56603,
     "name": "세데크 장막직공",
-    "text": "내가 하수인에게\n주문을 시전한 후에,\n무작위 사제 주문을 내\n손으로 가져옵니다.",
+    "text": "내가 하수인에게<br></br>주문을 시전한 후에,<br></br>무작위 사제 주문을 내<br></br>손으로 가져옵니다.",
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]내가 하수인에게\n주문을 시전한 후에,\n무작위 사제 주문을 내\n손으로 가져옵니다.",
+    "nativeRawText": "[x]내가 하수인에게<br></br>주문을 시전한 후에,<br></br>무작위 사제 주문을 내<br></br>손으로 가져옵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

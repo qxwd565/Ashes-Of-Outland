@@ -6,7 +6,7 @@
     "id": "BT_509",
     "dbfId": 59864,
     "name": "지옥 소환사",
-    "text": "<b>죽음의 메아리:</b>\n내 손에 있는 무작위\n악마를 소환합니다.",
+    "text": "<b>죽음의 메아리:</b><br></br>내 손에 있는 무작위<br></br>악마를 소환합니다.",
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>죽음의 메아리:</b>\n내 손에 있는 무작위\n악마를 소환합니다.",
+    "nativeRawText": "[x]<b>죽음의 메아리:</b><br></br>내 손에 있는 무작위<br></br>악마를 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

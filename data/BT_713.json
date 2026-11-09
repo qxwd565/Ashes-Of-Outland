@@ -6,7 +6,7 @@
     "id": "BT_713",
     "dbfId": 56530,
     "name": "아카마",
-    "text": "<b>은신</b>, <b>죽음의 메아리:</b>\n'아카마 프라임'을\n내 덱에 섞어 넣습니다.",
+    "text": "<b>은신</b>, <b>죽음의 메아리:</b><br></br>'아카마 프라임'을<br></br>내 덱에 섞어 넣습니다.",
     "type": "MINION",
     "cardClass": "ROGUE",
     "classes": [],
@@ -90,7 +90,7 @@
         "value": 57156
       }
     ],
-    "nativeRawText": "[x]<b>은신</b>, <b>죽음의 메아리:</b>\n'아카마 프라임'을\n내 덱에 섞어 넣습니다.",
+    "nativeRawText": "[x]<b>은신</b>, <b>죽음의 메아리:</b><br></br>'아카마 프라임'을<br></br>내 덱에 섞어 넣습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

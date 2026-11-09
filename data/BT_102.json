@@ -6,7 +6,7 @@
     "id": "BT_102",
     "dbfId": 56413,
     "name": "수렁돌기 너클",
-    "text": "내 영웅이 공격한 후에,\n내 하수인들을 비용이\n(1) 높은 무작위 하수인으로 변신시킵니다.",
+    "text": "내 영웅이 공격한 후에,<br></br>내 하수인들을 비용이<br></br>(1) 높은 무작위 하수인으로 변신시킵니다.",
     "type": "WEAPON",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "내 영웅이 공격한 후에,\n내 하수인들을 비용이\n(1) 높은 무작위 하수인으로 변신시킵니다.",
+    "nativeRawText": "내 영웅이 공격한 후에,<br></br>내 하수인들을 비용이<br></br>(1) 높은 무작위 하수인으로 변신시킵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

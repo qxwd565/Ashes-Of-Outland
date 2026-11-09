@@ -6,7 +6,7 @@
     "id": "BT_934",
     "dbfId": 56649,
     "name": "사로잡힌 안타엔",
-    "text": "2턴 동안 <b>휴면</b> 상태입니다.\n깨어나면, 모든 적에게\n10의 피해를 무작위로\n나누어 입힙니다.",
+    "text": "2턴 동안 <b>휴면</b> 상태입니다.<br></br>깨어나면, 모든 적에게<br></br>10의 피해를 무작위로<br></br>나누어 입힙니다.",
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태입니다.\n깨어나면, 모든 적에게\n10의 피해를 무작위로\n나누어 입힙니다.",
+    "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태입니다.<br></br>깨어나면, 모든 적에게<br></br>10의 피해를 무작위로<br></br>나누어 입힙니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

@@ -6,7 +6,7 @@
     "id": "BT_121",
     "dbfId": 56508,
     "name": "사로잡힌 간아그",
-    "text": "2턴 동안 <b>휴면</b> 상태입니다.\n깨어나면, 3/2 도끼를\n장착합니다.",
+    "text": "2턴 동안 <b>휴면</b> 상태입니다.<br></br>깨어나면, 3/2 도끼를<br></br>장착합니다.",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -85,7 +85,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태입니다.\n깨어나면, 3/2 도끼를\n장착합니다.",
+    "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태입니다.<br></br>깨어나면, 3/2 도끼를<br></br>장착합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

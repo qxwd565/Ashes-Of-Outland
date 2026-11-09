@@ -6,7 +6,7 @@
     "id": "BT_514",
     "dbfId": 59869,
     "name": "제물의 오라",
-    "text": "<b>모든</b> 하수인에게 피해를 $1 줍니다.\n2번 발동합니다.",
+    "text": "<b>모든</b> 하수인에게 피해를 $1 줍니다.<br></br>2번 발동합니다.",
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -58,7 +58,7 @@
         "value": 7
       }
     ],
-    "nativeRawText": "<b>모든</b> 하수인에게 피해를 $1 줍니다.\n2번 발동합니다.",
+    "nativeRawText": "<b>모든</b> 하수인에게 피해를 $1 줍니다.<br></br>2번 발동합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

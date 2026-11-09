@@ -6,7 +6,7 @@
     "id": "BT_252",
     "dbfId": 56595,
     "name": "소생",
-    "text": "생명력을 #3 회복시킵니다.\n주문을 <b>발견</b>합니다.",
+    "text": "생명력을 #3 회복시킵니다.<br></br>주문을 <b>발견</b>합니다.",
     "type": "SPELL",
     "cardClass": "PRIEST",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 5
       }
     ],
-    "nativeRawText": "생명력을 #3 회복시킵니다.\n주문을 <b>발견</b>합니다.",
+    "nativeRawText": "생명력을 #3 회복시킵니다.<br></br>주문을 <b>발견</b>합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

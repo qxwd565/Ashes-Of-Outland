@@ -6,7 +6,7 @@
     "id": "BT_423",
     "dbfId": 56860,
     "name": "잿빛혓바닥 전투군주",
-    "text": "<b>도발</b>\n<b>생명력 흡수</b>",
+    "text": "<b>도발</b><br></br><b>생명력 흡수</b>",
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -100,7 +100,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>도발</b>\n<b>생명력 흡수</b>",
+    "nativeRawText": "<b>도발</b><br></br><b>생명력 흡수</b>",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

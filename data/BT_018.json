@@ -6,7 +6,7 @@
     "id": "BT_018",
     "dbfId": 56443,
     "name": "미명 낚싯대",
-    "text": "내 영웅이 공격한 후에, 무작위 멀록을\n내 손으로 가져옵니다.",
+    "text": "내 영웅이 공격한 후에, 무작위 멀록을<br></br>내 손으로 가져옵니다.",
     "type": "WEAPON",
     "cardClass": "PALADIN",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "내 영웅이 공격한 후에, 무작위 멀록을\n내 손으로 가져옵니다.",
+    "nativeRawText": "내 영웅이 공격한 후에, 무작위 멀록을<br></br>내 손으로 가져옵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

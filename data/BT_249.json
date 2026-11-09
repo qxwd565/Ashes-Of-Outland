@@ -6,7 +6,7 @@
     "id": "BT_249",
     "dbfId": 57165,
     "name": "고철 골렘",
-    "text": "<b>도발</b>, <b>죽음의 메아리</b>:\n이 하수인의 공격력만큼\n방어도를 얻습니다.",
+    "text": "<b>도발</b>, <b>죽음의 메아리</b>:<br></br>이 하수인의 공격력만큼<br></br>방어도를 얻습니다.",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>도발</b>, <b>죽음의 메아리</b>:\n이 하수인의 공격력만큼\n방어도를 얻습니다.",
+    "nativeRawText": "[x]<b>도발</b>, <b>죽음의 메아리</b>:<br></br>이 하수인의 공격력만큼<br></br>방어도를 얻습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

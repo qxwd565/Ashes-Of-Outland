@@ -6,7 +6,7 @@
     "id": "BT_020",
     "dbfId": 56445,
     "name": "알도르 수행원",
-    "text": "<b>전투의 함성:</b>\n이번 게임에서 내 성서의\n비용이 (1) 감소합니다.",
+    "text": "<b>전투의 함성:</b><br></br>이번 게임에서 내 성서의<br></br>비용이 (1) 감소합니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -75,7 +75,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b>\n이번 게임에서 내 성서의\n비용이 (1) 감소합니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b><br></br>이번 게임에서 내 성서의<br></br>비용이 (1) 감소합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

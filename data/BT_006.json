@@ -6,7 +6,7 @@
     "id": "BT_006",
     "dbfId": 56389,
     "name": "환기",
-    "text": "내 손을 무작위 마법사\n주문으로 가득 채웁니다.\n그 주문들은 <b>일시적</b>입니다.",
+    "text": "내 손을 무작위 마법사<br></br>주문으로 가득 채웁니다.<br></br>그 주문들은 <b>일시적</b>입니다.",
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]내 손을 무작위 마법사\n주문으로 가득 채웁니다.\n그 주문들은 <b>일시적</b>입니다.",
+    "nativeRawText": "[x]내 손을 무작위 마법사<br></br>주문으로 가득 채웁니다.<br></br>그 주문들은 <b>일시적</b>입니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

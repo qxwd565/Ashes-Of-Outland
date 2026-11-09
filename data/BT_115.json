@@ -6,7 +6,7 @@
     "id": "BT_115",
     "dbfId": 56472,
     "name": "늪정령",
-    "text": "<b>전투의 함성:</b> 내가 이전\n턴에 주문을 시전했다면,\n주문을 <b>발견</b>합니다.",
+    "text": "<b>전투의 함성:</b> 내가 이전<br></br>턴에 주문을 시전했다면,<br></br>주문을 <b>발견</b>합니다.",
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -85,7 +85,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 내가 이전\n턴에 주문을 시전했다면,\n주문을 <b>발견</b>합니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 내가 이전<br></br>턴에 주문을 시전했다면,<br></br>주문을 <b>발견</b>합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

@@ -6,7 +6,7 @@
     "id": "BT_128",
     "dbfId": 56677,
     "name": "왕성한 진균 ",
-    "text": "카드를 3장 뽑습니다.\n하수인을 뽑으면,\n그 하수인을 버립니다.",
+    "text": "카드를 3장 뽑습니다.<br></br>하수인을 뽑으면,<br></br>그 하수인을 버립니다.",
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
@@ -58,7 +58,7 @@
         "value": 4
       }
     ],
-    "nativeRawText": "[x]카드를 3장 뽑습니다.\n하수인을 뽑으면,\n그 하수인을 버립니다.",
+    "nativeRawText": "[x]카드를 3장 뽑습니다.<br></br>하수인을 뽑으면,<br></br>그 하수인을 버립니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

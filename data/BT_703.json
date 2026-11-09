@@ -6,7 +6,7 @@
     "id": "BT_703",
     "dbfId": 56379,
     "name": "저주받은 부랑자",
-    "text": "<b>죽음의 메아리:</b>\n<b>은신</b> 능력이 있는 7/5\n그림자를 소환합니다.",
+    "text": "<b>죽음의 메아리:</b><br></br><b>은신</b> 능력이 있는 7/5<br></br>그림자를 소환합니다.",
     "type": "MINION",
     "cardClass": "ROGUE",
     "classes": [],
@@ -78,7 +78,7 @@
         "value": 57498
       }
     ],
-    "nativeRawText": "[x]<b>죽음의 메아리:</b>\n<b>은신</b> 능력이 있는 7/5\n그림자를 소환합니다.",
+    "nativeRawText": "[x]<b>죽음의 메아리:</b><br></br><b>은신</b> 능력이 있는 7/5<br></br>그림자를 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

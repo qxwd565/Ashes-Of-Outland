@@ -6,7 +6,7 @@
     "id": "BT_430",
     "dbfId": 56900,
     "name": "아지노스의 쌍날검",
-    "text": "내 영웅이 하수인을\n공격한 후에,\n다시 공격할 수\n있습니다.",
+    "text": "내 영웅이 하수인을<br></br>공격한 후에,<br></br>다시 공격할 수<br></br>있습니다.",
     "type": "WEAPON",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]내 영웅이 하수인을\n공격한 후에,\n다시 공격할 수\n있습니다.",
+    "nativeRawText": "[x]내 영웅이 하수인을<br></br>공격한 후에,<br></br>다시 공격할 수<br></br>있습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

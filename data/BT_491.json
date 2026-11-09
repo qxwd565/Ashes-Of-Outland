@@ -6,7 +6,7 @@
     "id": "BT_491",
     "dbfId": 58453,
     "name": "영혼 시야",
-    "text": "카드를 뽑습니다.\n<b>추방자:</b> 카드를 추가로 뽑습니다.",
+    "text": "카드를 뽑습니다.<br></br><b>추방자:</b> 카드를 추가로 뽑습니다.",
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -58,7 +58,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "카드를 뽑습니다.\n<b>추방자:</b> 카드를 추가로 뽑습니다.",
+    "nativeRawText": "카드를 뽑습니다.<br></br><b>추방자:</b> 카드를 추가로 뽑습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

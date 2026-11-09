@@ -6,7 +6,7 @@
     "id": "BT_733",
     "dbfId": 57193,
     "name": "모아그 기술병",
-    "text": "<b>모든</b> 하수인이\n주문으로 받는 피해가 2배 증가합니다.",
+    "text": "<b>모든</b> 하수인이<br></br>주문으로 받는 피해가 2배 증가합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -76,7 +76,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>모든</b> 하수인이\n주문으로 받는 피해가 2배 증가합니다.",
+    "nativeRawText": "<b>모든</b> 하수인이<br></br>주문으로 받는 피해가 2배 증가합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

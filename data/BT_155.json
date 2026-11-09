@@ -6,7 +6,7 @@
     "id": "BT_155",
     "dbfId": 56819,
     "name": "고철장 거수",
-    "text": "<b>도발</b>, <b>죽음의 메아리:</b>\n<b>도발</b> 능력이 있는\n7/7 지옥빛 거수를\n소환합니다.",
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br><b>도발</b> 능력이 있는<br></br>7/7 지옥빛 거수를<br></br>소환합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -85,7 +85,7 @@
         "value": 59820
       }
     ],
-    "nativeRawText": "[x]<b>도발</b>, <b>죽음의 메아리:</b>\n<b>도발</b> 능력이 있는\n7/7 지옥빛 거수를\n소환합니다.",
+    "nativeRawText": "[x]<b>도발</b>, <b>죽음의 메아리:</b><br></br><b>도발</b> 능력이 있는<br></br>7/7 지옥빛 거수를<br></br>소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

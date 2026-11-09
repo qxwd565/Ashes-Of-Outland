@@ -6,7 +6,7 @@
     "id": "BT_028",
     "dbfId": 56717,
     "name": "점성술사 솔라리안",
-    "text": "<b>주문 공격력 +1</b>,\n<b>죽음의 메아리:</b>\n'솔라리안 프라임'을 내\n덱에 섞어 넣습니다.",
+    "text": "<b>주문 공격력 +1</b>,<br></br><b>죽음의 메아리:</b><br></br>'솔라리안 프라임'을 내<br></br>덱에 섞어 넣습니다.",
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
@@ -83,7 +83,7 @@
         "value": 56718
       }
     ],
-    "nativeRawText": "[x]<b>주문 공격력 +1</b>,\n<b>죽음의 메아리:</b>\n'솔라리안 프라임'을 내\n덱에 섞어 넣습니다.",
+    "nativeRawText": "[x]<b>주문 공격력 +1</b>,<br></br><b>죽음의 메아리:</b><br></br>'솔라리안 프라임'을 내<br></br>덱에 섞어 넣습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

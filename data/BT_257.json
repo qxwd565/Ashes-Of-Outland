@@ -6,7 +6,7 @@
     "id": "BT_257",
     "dbfId": 56623,
     "name": "절정",
-    "text": "하수인에게 +2/+3과\n <b>생명력 흡수</b>를\n부여합니다.",
+    "text": "하수인에게 +2/+3과<br></br> <b>생명력 흡수</b>를<br></br>부여합니다.",
     "type": "SPELL",
     "cardClass": "PRIEST",
     "classes": [],
@@ -63,7 +63,7 @@
         "value": 5
       }
     ],
-    "nativeRawText": "[x]하수인에게 +2/+3과\n <b>생명력 흡수</b>를\n부여합니다.",
+    "nativeRawText": "[x]하수인에게 +2/+3과<br></br> <b>생명력 흡수</b>를<br></br>부여합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

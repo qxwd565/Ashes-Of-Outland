@@ -6,7 +6,7 @@
     "id": "BT_210",
     "dbfId": 56451,
     "name": "최상위 포식자 직소르",
-    "text": "<b>속공</b>, <b>죽음의 메아리:</b>\n'직소르 프라임'을\n내 덱에 섞어 넣습니다.",
+    "text": "<b>속공</b>, <b>죽음의 메아리:</b><br></br>'직소르 프라임'을<br></br>내 덱에 섞어 넣습니다.",
     "type": "MINION",
     "cardClass": "HUNTER",
     "classes": [],
@@ -90,7 +90,7 @@
         "value": 57631
       }
     ],
-    "nativeRawText": "[x]<b>속공</b>, <b>죽음의 메아리:</b>\n'직소르 프라임'을\n내 덱에 섞어 넣습니다.",
+    "nativeRawText": "[x]<b>속공</b>, <b>죽음의 메아리:</b><br></br>'직소르 프라임'을<br></br>내 덱에 섞어 넣습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

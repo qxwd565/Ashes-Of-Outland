@@ -6,7 +6,7 @@
     "id": "BT_716",
     "dbfId": 57176,
     "name": "해골이빨 선봉대원",
-    "text": "<b>도발</b>, 이 하수인은\n피해를 받을 때마다 공격력을 +2 얻습니다.",
+    "text": "<b>도발</b>, 이 하수인은<br></br>피해를 받을 때마다 공격력을 +2 얻습니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>도발</b>, 이 하수인은\n피해를 받을 때마다 공격력을 +2 얻습니다.",
+    "nativeRawText": "<b>도발</b>, 이 하수인은<br></br>피해를 받을 때마다 공격력을 +2 얻습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

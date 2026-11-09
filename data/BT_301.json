@@ -6,7 +6,7 @@
     "id": "BT_301",
     "dbfId": 56502,
     "name": "밤그늘 대모",
-    "text": "<b>속공</b>, <b>전투의 함성:</b>\n비용이 가장 높은\n카드를 버립니다.",
+    "text": "<b>속공</b>, <b>전투의 함성:</b><br></br>비용이 가장 높은<br></br>카드를 버립니다.",
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b>\n비용이 가장 높은\n카드를 버립니다.",
+    "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b><br></br>비용이 가장 높은<br></br>카드를 버립니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

@@ -6,7 +6,7 @@
     "id": "BT_188",
     "dbfId": 57979,
     "name": "그림자보석공 하나르",
-    "text": "내가 <b>비밀</b>을 낸 후에,\n다른 직업의 <b>비밀</b>을 <b>발견</b>합니다.",
+    "text": "내가 <b>비밀</b>을 낸 후에,<br></br>다른 직업의 <b>비밀</b>을 <b>발견</b>합니다.",
     "type": "MINION",
     "cardClass": "ROGUE",
     "classes": [],
@@ -95,7 +95,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "내가 <b>비밀</b>을 낸 후에,\n다른 직업의 <b>비밀</b>을 <b>발견</b>합니다.",
+    "nativeRawText": "내가 <b>비밀</b>을 낸 후에,<br></br>다른 직업의 <b>비밀</b>을 <b>발견</b>합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

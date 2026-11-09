@@ -6,7 +6,7 @@
     "id": "BT_728",
     "dbfId": 57188,
     "name": "변장한 방랑자",
-    "text": "<b>죽음의 메아리:</b>\n9/1 심문관을 소환합니다.",
+    "text": "<b>죽음의 메아리:</b><br></br>9/1 심문관을 소환합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 57903
       }
     ],
-    "nativeRawText": "<b>죽음의 메아리:</b>\n9/1 심문관을 소환합니다.",
+    "nativeRawText": "<b>죽음의 메아리:</b><br></br>9/1 심문관을 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

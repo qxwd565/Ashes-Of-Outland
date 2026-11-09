@@ -6,7 +6,7 @@
     "id": "BT_163",
     "dbfId": 56827,
     "name": "나그란드 질주",
-    "text": "무작위 적을 공격하는\n3/5 갈래발굽을\n4마리 소환합니다.",
+    "text": "무작위 적을 공격하는<br></br>3/5 갈래발굽을<br></br>4마리 소환합니다.",
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [],
@@ -58,7 +58,7 @@
         "value": 57965
       }
     ],
-    "nativeRawText": "[x]무작위 적을 공격하는\n3/5 갈래발굽을\n4마리 소환합니다.",
+    "nativeRawText": "[x]무작위 적을 공격하는<br></br>3/5 갈래발굽을<br></br>4마리 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

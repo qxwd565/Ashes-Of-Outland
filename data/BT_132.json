@@ -6,7 +6,7 @@
     "id": "BT_132",
     "dbfId": 56684,
     "name": "무쇠껍질",
-    "text": "하수인에게 +1/+3과\n<b>도발</b>을 부여합니다.\n내 마나 수정이 7개 이상이면,\n비용이 (0)이 됩니다.",
+    "text": "하수인에게 +1/+3과<br></br><b>도발</b>을 부여합니다.<br></br>내 마나 수정이 7개 이상이면,<br></br>비용이 (0)이 됩니다.",
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
@@ -63,7 +63,7 @@
         "value": 4
       }
     ],
-    "nativeRawText": "[x]하수인에게 +1/+3과\n<b>도발</b>을 부여합니다.\n내 마나 수정이 7개 이상이면,\n비용이 (0)이 됩니다.",
+    "nativeRawText": "[x]하수인에게 +1/+3과<br></br><b>도발</b>을 부여합니다.<br></br>내 마나 수정이 7개 이상이면,<br></br>비용이 (0)이 됩니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

@@ -6,7 +6,7 @@
     "id": "BT_190",
     "dbfId": 57907,
     "name": "복붙로봇",
-    "text": "내 턴이 끝날 때,\n양옆에 있는 하수인 중\n하나를 이 하수인으로\n변신시킵니다.",
+    "text": "내 턴이 끝날 때,<br></br>양옆에 있는 하수인 중<br></br>하나를 이 하수인으로<br></br>변신시킵니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -75,7 +75,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]내 턴이 끝날 때,\n양옆에 있는 하수인 중\n하나를 이 하수인으로\n변신시킵니다.",
+    "nativeRawText": "[x]내 턴이 끝날 때,<br></br>양옆에 있는 하수인 중<br></br>하나를 이 하수인으로<br></br>변신시킵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

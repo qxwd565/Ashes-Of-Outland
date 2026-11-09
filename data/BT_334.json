@@ -6,7 +6,7 @@
     "id": "BT_334",
     "dbfId": 57476,
     "name": "여군주 리아드린",
-    "text": "<b>전투의 함성:</b> 이번 게임에서\n내 캐릭터들에게 시전했던\n모든 주문을 복사하여\n내 손으로 가져옵니다.",
+    "text": "<b>전투의 함성:</b> 이번 게임에서<br></br>내 캐릭터들에게 시전했던<br></br>모든 주문을 복사하여<br></br>내 손으로 가져옵니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 이번 게임에서\n내 캐릭터들에게 시전했던\n모든 주문을 복사하여\n내 손으로 가져옵니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 이번 게임에서<br></br>내 캐릭터들에게 시전했던<br></br>모든 주문을 복사하여<br></br>내 손으로 가져옵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

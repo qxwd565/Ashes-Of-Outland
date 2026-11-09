@@ -6,7 +6,7 @@
     "id": "BT_014",
     "dbfId": 56439,
     "name": "별점술사",
-    "text": "<b>죽음의 메아리</b>:\n주문을 뽑습니다.",
+    "text": "<b>죽음의 메아리</b>:<br></br>주문을 뽑습니다.",
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>죽음의 메아리</b>:&\n주문을 뽑습니다.",
+    "nativeRawText": "<b>죽음의 메아리</b>:&<br></br>주문을 뽑습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

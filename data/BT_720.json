@@ -6,7 +6,7 @@
     "id": "BT_720",
     "dbfId": 57180,
     "name": "녹슨탈것 약탈자",
-    "text": "<b>도발</b>, <b>속공</b>, <b>전투의 함성:</b>\n이번 턴에 공격력을\n+4 얻습니다.",
+    "text": "<b>도발</b>, <b>속공</b>, <b>전투의 함성:</b><br></br>이번 턴에 공격력을<br></br>+4 얻습니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -78,7 +78,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>도발</b>, <b>속공</b>, <b>전투의 함성:</b>\n이번 턴에 공격력을\n+4 얻습니다.",
+    "nativeRawText": "[x]<b>도발</b>, <b>속공</b>, <b>전투의 함성:</b><br></br>이번 턴에 공격력을<br></br>+4 얻습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

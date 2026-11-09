@@ -6,7 +6,7 @@
     "id": "BT_781",
     "dbfId": 57721,
     "name": "아지노스의 보루 방패",
-    "text": "내 영웅이 피해를 받을\n때마다 내구도를 1 잃고\n그 피해를 막습니다.",
+    "text": "내 영웅이 피해를 받을<br></br>때마다 내구도를 1 잃고<br></br>그 피해를 막습니다.",
     "type": "WEAPON",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]내 영웅이 피해를 받을\n때마다 내구도를 1 잃고\n그 피해를 막습니다.",
+    "nativeRawText": "[x]내 영웅이 피해를 받을<br></br>때마다 내구도를 1 잃고<br></br>그 피해를 막습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

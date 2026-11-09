@@ -6,7 +6,7 @@
     "id": "BT_321",
     "dbfId": 56985,
     "name": "황천방랑자",
-    "text": "<b>전투의 함성</b>:\n악마를 <b>발견</b>합니다.",
+    "text": "<b>전투의 함성</b>:<br></br>악마를 <b>발견</b>합니다.",
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -88,7 +88,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>전투의 함성</b>:&\n악마를 <b>발견</b>합니다.",
+    "nativeRawText": "<b>전투의 함성</b>:&<br></br>악마를 <b>발견</b>합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

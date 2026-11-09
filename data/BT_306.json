@@ -6,7 +6,7 @@
     "id": "BT_306",
     "dbfId": 56520,
     "name": "어둠의 의회",
-    "text": "내 손에 있는 <b>모든</b> 카드를\n무작위 악마로 교체합니다.\n그 악마들에게 +2/+2를\n부여합니다.",
+    "text": "내 손에 있는 <b>모든</b> 카드를<br></br>무작위 악마로 교체합니다.<br></br>그 악마들에게 +2/+2를<br></br>부여합니다.",
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -58,7 +58,7 @@
         "value": 7
       }
     ],
-    "nativeRawText": "[x]내 손에 있는 <b>모든</b> 카드를\n무작위 악마로 교체합니다.\n그 악마들에게 +2/+2를\n부여합니다.",
+    "nativeRawText": "[x]내 손에 있는 <b>모든</b> 카드를<br></br>무작위 악마로 교체합니다.<br></br>그 악마들에게 +2/+2를<br></br>부여합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

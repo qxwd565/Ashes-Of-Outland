@@ -6,7 +6,7 @@
     "id": "BT_109",
     "dbfId": 56420,
     "name": "여군주 바쉬",
-    "text": "<b>주문 공격력 +1</b>,\n<b>죽음의 메아리:</b>\n'바쉬 프라임'을 내 덱에\n섞어 넣습니다.",
+    "text": "<b>주문 공격력 +1</b>,<br></br><b>죽음의 메아리:</b><br></br>'바쉬 프라임'을 내 덱에<br></br>섞어 넣습니다.",
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -90,7 +90,7 @@
         "value": 56626
       }
     ],
-    "nativeRawText": "[x]<b>주문 공격력 +1</b>,\n<b>죽음의 메아리:</b>\n'바쉬 프라임'을 내 덱에\n섞어 넣습니다.",
+    "nativeRawText": "[x]<b>주문 공격력 +1</b>,<br></br><b>죽음의 메아리:</b><br></br>'바쉬 프라임'을 내 덱에<br></br>섞어 넣습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

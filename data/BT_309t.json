@@ -6,7 +6,7 @@
     "id": "BT_309t",
     "dbfId": 57155,
     "name": "칸레타드 프라임",
-    "text": "<b>전투의 함성:</b>\n이번 게임에서 죽은 무작위 아군 악마를\n셋 소환합니다.",
+    "text": "<b>전투의 함성:</b><br></br>이번 게임에서 죽은 무작위 아군 악마를<br></br>셋 소환합니다.",
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -76,7 +76,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>전투의 함성:</b>\n이번 게임에서 죽은 무작위 아군 악마를\n셋 소환합니다.",
+    "nativeRawText": "<b>전투의 함성:</b><br></br>이번 게임에서 죽은 무작위 아군 악마를<br></br>셋 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

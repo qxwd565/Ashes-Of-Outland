@@ -6,7 +6,7 @@
     "id": "BT_214",
     "dbfId": 56758,
     "name": "야수조련사 레오록스",
-    "text": "<b>전투의 함성:</b>\n내 손에서 야수를\n3마리 소환합니다.",
+    "text": "<b>전투의 함성:</b><br></br>내 손에서 야수를<br></br>3마리 소환합니다.",
     "type": "MINION",
     "cardClass": "HUNTER",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>전투의 함성:</b>\n내 손에서 야수를\n3마리 소환합니다.",
+    "nativeRawText": "<b>전투의 함성:</b><br></br>내 손에서 야수를<br></br>3마리 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

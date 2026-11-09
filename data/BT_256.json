@@ -6,7 +6,7 @@
     "id": "BT_256",
     "dbfId": 56681,
     "name": "용아귀 감독관",
-    "text": "내 턴이 끝날 때, 다른\n무작위 아군 하수인에게\n+2/+2를 부여합니다.",
+    "text": "내 턴이 끝날 때, 다른<br></br>무작위 아군 하수인에게<br></br>+2/+2를 부여합니다.",
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]내 턴이 끝날 때, 다른\n무작위 아군 하수인에게\n+2/+2를 부여합니다.",
+    "nativeRawText": "[x]내 턴이 끝날 때, 다른<br></br>무작위 아군 하수인에게<br></br>+2/+2를 부여합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

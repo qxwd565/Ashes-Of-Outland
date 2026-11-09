@@ -6,7 +6,7 @@
     "id": "BT_026",
     "dbfId": 56556,
     "name": "알도르 진실탐구자",
-    "text": "<b>도발</b>, <b>전투의 함성:</b>\n이번 게임에서 내 성서의\n비용이 (2) 감소합니다.",
+    "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>이번 게임에서 내 성서의<br></br>비용이 (2) 감소합니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>도발</b>, <b>전투의 함성:</b>\n이번 게임에서 내 성서의\n비용이 (2) 감소합니다.",
+    "nativeRawText": "[x]<b>도발</b>, <b>전투의 함성:</b><br></br>이번 게임에서 내 성서의<br></br>비용이 (2) 감소합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"

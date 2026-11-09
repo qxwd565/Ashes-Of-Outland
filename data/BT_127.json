@@ -6,7 +6,7 @@
     "id": "BT_127",
     "dbfId": 56676,
     "name": "사로잡힌 사티로스",
-    "text": "2턴 동안 <b>휴면</b> 상태입니다.\n깨어나면, 내 손에 있는\n무작위 하수인의 비용이\n(5) 감소합니다.",
+    "text": "2턴 동안 <b>휴면</b> 상태입니다.<br></br>깨어나면, 내 손에 있는<br></br>무작위 하수인의 비용이<br></br>(5) 감소합니다.",
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태입니다.\n깨어나면, 내 손에 있는\n무작위 하수인의 비용이\n(5) 감소합니다.",
+    "nativeRawText": "[x]2턴 동안 <b>휴면</b> 상태입니다.<br></br>깨어나면, 내 손에 있는<br></br>무작위 하수인의 비용이<br></br>(5) 감소합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
     "releaseStatus": "verified"
