@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Priestess of Fury",
   "card": {
@@ -13,7 +13,7 @@
     "nativeSetId": 1414,
     "set": "BLACK_TEMPLE",
     "rarity": "RARE",
-    "race": "악마",
+    "race": "DEMON",
     "races": [
       "DEMON"
     ],
@@ -88,7 +88,24 @@
     "nativeRawText": "내 턴이 끝날 때,& 모든 적에게 6의 피해를 무작위로 나누어 입힙니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "patches": [
+      {
+        "date": "2020-05-19",
+        "changes": {
+          "health": 5
+        }
+      },
+      {
+        "date": "2022-04-06",
+        "changes": {
+          "health": 7
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

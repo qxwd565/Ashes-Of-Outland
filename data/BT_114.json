@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Shattered Rumbler",
   "card": {
@@ -13,13 +13,13 @@
     "nativeSetId": 1414,
     "set": "BLACK_TEMPLE",
     "rarity": "EPIC",
-    "race": "정령",
+    "race": "ELEMENTAL",
     "races": [
       "ELEMENTAL"
     ],
     "spellSchool": "",
     "cost": 5,
-    "attack": 5,
+    "attack": 4,
     "health": 6,
     "armor": 0,
     "durability": 0,
@@ -78,7 +78,18 @@
     "nativeRawText": "<b>전투의 함성:</b> 내가 이전 턴에 주문을 시전했다면, 다른 모든 하수인에게 피해를 2 줍니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "patches": [
+      {
+        "date": "2020-05-19",
+        "changes": {
+          "attack": 5
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

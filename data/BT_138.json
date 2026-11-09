@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Bloodboil Brute",
   "card": {
     "id": "BT_138",
     "dbfId": 56732,
     "name": "끓어오르는 피 싸움꾼",
-    "text": "<b>속공</b>, 피해를 받은\n하수인 하나당 비용이 (1)씩 감소합니다.",
+    "text": "<b>속공</b>, 피해를 받은<br></br>하수인 하나당 비용이 (1)씩 감소합니다.",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -68,10 +68,27 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>속공</b>, 피해를 받은\n하수인 하나당 비용이 (1)씩 감소합니다.",
+    "nativeRawText": "<b>속공</b>, 피해를 받은<br></br>하수인 하나당 비용이 (1)씩 감소합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "RUSH"
+    ],
+    "patches": [
+      {
+        "date": "2020-05-19",
+        "changes": {
+          "attack": 5
+        }
+      },
+      {
+        "date": "2022-04-06",
+        "changes": {
+          "attack": 6
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

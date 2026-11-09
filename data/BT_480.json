@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Crimson Sigil Runner",
   "card": {
     "id": "BT_480",
     "dbfId": 58170,
     "name": "붉은 인장대 전령",
-    "text": "<b>추방자</b>:\n카드를 뽑습니다.",
+    "text": "<b>추방자</b>:<br></br>카드를 뽑습니다.",
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
@@ -17,7 +17,7 @@
     "races": [],
     "spellSchool": "",
     "cost": 1,
-    "attack": 1,
+    "attack": 2,
     "health": 1,
     "armor": 0,
     "durability": 0,
@@ -83,10 +83,21 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>추방자</b>:&\n카드를 뽑습니다.",
+    "nativeRawText": "<b>추방자</b>:&<br></br>카드를 뽑습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2020-04-08",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "patches": [
+      {
+        "date": "2020-05-19",
+        "changes": {
+          "attack": 1
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],
