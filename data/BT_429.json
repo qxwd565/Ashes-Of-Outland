@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Metamorphosis",
-  "card": {
+  "2020-04-08": {
     "id": "BT_429",
     "dbfId": 56899,
     "name": "탈태",
@@ -70,29 +67,12 @@
     ],
     "nativeRawText": "내 영웅 능력이 '피해를 5 줍니다.'로 바뀝니다. 2회 사용한 후에, 원래 영웅 능력으로 돌아옵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2020-04-08",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    56876,
-    56877
-  ],
-  "expansion": {
-    "id": 1414,
-    "slug": "ashes-of-outland",
-    "name": "황폐한 아웃랜드",
-    "type": "expansion",
-    "englishName": "Ashes Of Outland"
-  },
-  "setOrder": 23,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Metamorphosis",
+    "root": true,
+    "relatedIds": [
+      56876,
+      56877
+    ],
+    "art": "art/BT_429.png"
   }
 }

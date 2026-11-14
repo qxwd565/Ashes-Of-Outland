@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Astromancer Solarian",
-  "card": {
+  "2020-04-08": {
     "id": "BT_028",
     "dbfId": 56717,
     "name": "점성술사 솔라리안",
@@ -85,28 +82,11 @@
     ],
     "nativeRawText": "[x]<b>주문 공격력 +1</b>,<br></br><b>죽음의 메아리:</b><br></br>'솔라리안 프라임'을 내<br></br>덱에 섞어 넣습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2020-04-08",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    56718
-  ],
-  "expansion": {
-    "id": 1414,
-    "slug": "ashes-of-outland",
-    "name": "황폐한 아웃랜드",
-    "type": "expansion",
-    "englishName": "Ashes Of Outland"
-  },
-  "setOrder": 23,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Astromancer Solarian",
+    "root": true,
+    "relatedIds": [
+      56718
+    ],
+    "art": "art/BT_028.png"
   }
 }

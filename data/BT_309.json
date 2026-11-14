@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Kanrethad Ebonlocke",
-  "card": {
+  "2020-04-08": {
     "id": "BT_309",
     "dbfId": 56534,
     "name": "칸레타드 에본로크",
@@ -85,28 +82,11 @@
     ],
     "nativeRawText": "[x]내 악마의 비용이 (1)<br></br>감소합니다. <b>죽음의 메아리:</b><br></br>'칸레타드 프라임'을 내 덱에<br></br>섞어 넣습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2020-04-08",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    57155
-  ],
-  "expansion": {
-    "id": 1414,
-    "slug": "ashes-of-outland",
-    "name": "황폐한 아웃랜드",
-    "type": "expansion",
-    "englishName": "Ashes Of Outland"
-  },
-  "setOrder": 23,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Kanrethad Ebonlocke",
+    "root": true,
+    "relatedIds": [
+      57155
+    ],
+    "art": "art/BT_309.png"
   }
 }

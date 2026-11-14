@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Al'ar",
-  "card": {
+  "2020-04-08": {
     "id": "BT_735",
     "dbfId": 57195,
     "name": "알라르",
@@ -98,28 +95,11 @@
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b><br></br>0/3 알라르의 재를 소환합니다.<br></br>알라르의 재는 내 다음 턴에<br></br>이 하수인을 부활시킵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2020-04-08",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    57982
-  ],
-  "expansion": {
-    "id": 1414,
-    "slug": "ashes-of-outland",
-    "name": "황폐한 아웃랜드",
-    "type": "expansion",
-    "englishName": "Ashes Of Outland"
-  },
-  "setOrder": 23,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Al'ar",
+    "root": true,
+    "relatedIds": [
+      57982
+    ],
+    "art": "art/BT_735.png"
   }
 }
